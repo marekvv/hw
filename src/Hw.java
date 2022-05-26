@@ -1,7 +1,7 @@
 public class Hw {
 
     public static void main(String[] args) {
-        System.out.printf("Hello Word2");
+        System.out.printf("Hello Word3");
     }
 
 }
